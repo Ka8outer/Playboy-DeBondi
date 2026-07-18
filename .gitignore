@@ -1,0 +1,19 @@
+# Bondi reader DLLs - sourced from the user's own installation, never distributed
+*.dll
+
+# Source magazine content - copyrighted, never commit
+*.djvu
+tester/
+
+# Conversion output
+output/
+*.cbz
+*.pdf
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code local (personal) settings
+.claude/settings.local.json

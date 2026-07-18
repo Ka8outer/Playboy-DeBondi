@@ -1,0 +1,23 @@
+Put your three Bondi reader DLLs in THIS folder:
+
+    BondiReader.DJVU.dll
+    msvcr71.dll
+    msvcp71.dll
+
+These come from your own, legally purchased "Playboy: Cover to Cover -
+The Complete Hugh Hefner Reader" hard drive or DVD set. They are NOT
+included in this download and are not redistributed.
+
+How to find them on your own set:
+
+  1. Open the "Playboy: Cover to Cover" hard drive / DVD in File Explorer.
+  2. Use the search box (top-right of the File Explorer window) to search
+     for:  BondiReader.DJVU.dll
+  3. When it appears, open the folder that contains it (right-click ->
+     "Open file location"). The two other DLLs, msvcr71.dll and
+     msvcp71.dll, usually sit in the same folder.
+  4. Copy all three files into this "dlls" folder.
+
+If msvcr71.dll or msvcp71.dll are not next to BondiReader.DJVU.dll, search
+the drive for each of them by name and copy them here too. All three must
+be in this folder for the converter to work.

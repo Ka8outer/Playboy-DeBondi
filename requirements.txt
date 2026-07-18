@@ -1,0 +1,5 @@
+# Always required
+Pillow
+
+# Only required for PDF output (--format pdf / both)
+fpdf2
