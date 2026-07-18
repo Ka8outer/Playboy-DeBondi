@@ -19,7 +19,37 @@ tool for advanced/batch use.
 
 ---
 
+## Who was Bondi, and why this tool exists
+
+"Bondi" isn't a person — it's **Bondi Digital Publishing**, the New York
+digital-media company (founded in 2004 by David Anthony and Murat Aktar) that
+produced these archives. After building *The Complete New Yorker* in 2005,
+Bondi partnered with Playboy to release *Playboy: Cover to Cover* — first as
+DVD-ROM box sets in 2007–2009, and then as a portable hard drive in 2010
+holding every issue from 1953 to 2010.
+
+Every page in those sets is stored as an **encrypted DjVu file that only opens
+inside Bondi's own reader software.** That was fine in 2010 — but **Bondi
+suspended operations years ago, and in 2022 its assets were acquired by another
+company (Pugpig).** The reader has gone unmaintained ever since. It depends on a
+2003-era 32-bit Windows runtime, and as operating systems and hardware move on,
+that kind of abandoned software gets harder to run every single year. One day it
+simply won't launch — and the archive you paid for goes dark with it.
+
+If you bought one of these sets, **you own the content** — but today it's locked
+to orphaned software you don't control, from a company that no longer exists.
+**This tool exists so owners can take back control of what they paid for**,
+converting their *own* archives into open, standard formats (CBZ and PDF) that
+will keep opening on any device long after the original reader stops working.
+It doesn't unlock anything you don't already own, and it can't get you issues
+you never bought — it just frees *your* copy from a dead reader before that
+reader takes it with it.
+
+---
+
 ## Contents
+
+- [Who was Bondi, and why this tool exists](#who-was-bondi-and-why-this-tool-exists)
 
 - [What you need](#what-you-need)
 - [Setup (do this once)](#setup-do-this-once)
